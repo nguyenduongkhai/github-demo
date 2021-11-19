@@ -1,0 +1,11 @@
+gif is sequence of multiple in one file transitioning where as jpeg is  one image
+
+XAMPP
+
+a) good as notification
+
+b)  confirm as prompt
+
+c) input prompt
+
+download zoomla and xampp
